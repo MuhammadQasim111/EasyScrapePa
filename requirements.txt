@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+playwright
+google-generativeai
+spacy
+openpyxl
+schedule
+pytest
+python-dotenv
+fake-useragent
+selectolax
+lxml
